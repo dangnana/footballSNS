@@ -1,4 +1,4 @@
 window.onload=function () {
-    var main=new IScroll("#main");
+    var body=new IScroll("#body");
 }
 
